@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Box Model Demo</title>
+	<link rel="stylesheet" type="text/css" href="boxmodelcss.css">
+</head>
+<body>
+<p>I AM A PARAGRAPH</p>
+<p>I AM A PARAGRAPH</p>
+</body>
+</html>
+<!-- below css file for above html file-->
+p {
+
+/*Content - width and Height*/
+width: 20%;
+/*height: 50px;*/
+/*Border*/
+border: 2px solid blue;
+
+/*Padding*/
+padding: 10px;
+/*padding-left: 30%;*/
+/*Margin*/
+/*margin: 20px 30px 300px 100px;*/
+margin: 0 auto 0 auto;
+} 
